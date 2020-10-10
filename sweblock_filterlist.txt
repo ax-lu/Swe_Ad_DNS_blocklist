@@ -995,8 +995,6 @@ akaskidor.se,hemtrevligt.se,kingmagazine.se,livetombord.se,mestmotor.se,svenskgo
 akaskidor.se,livetombord.se,mestmotor.se,svenskgolf.se,tidningenhalsa.se,utemagasinet.se,vagabond.se##a[onclick^="ANALYTICS.trackEvent('Spotlight'"]
 akaskidor.se,svenskgolf.se##.ad-wallpaper-panorama-container
 akaskidor.se,svenskgolf.se##.ad-wallpaper-wrapper
-aktiespararna.se##.analysguiden-promote-articles
-aktiespararna.se,alekuriren.se,civilekonomen.se,koket.se,nyheter24.se##.native
 aktivtraning.se,digitalfotoforalla.se,iform.se,militarhistoria.se,natgeo.se,popularhistoria.se##.scroll-message
 aktuellhallbarhet.se,dagensmedia.se,fastighetsnytt.se,resume.se###__next > div[class^="css-"]:last-child
 aktuellhallbarhet.se,dagensmedia.se,fastighetsnytt.se,resume.se##.slot-articlemodule
